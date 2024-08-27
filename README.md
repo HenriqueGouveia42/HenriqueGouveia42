@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HenriqueGouveia42
-- 👀 I’m interested in Back-end Web Development and System Design
-- 🌱 I’m currently learning how to build scalable and relaible web apps using React, Tailwindcss and Vite to build it all for front-end, and C#/.NET for back-end.
-- 💞️ I’m currently looking to collaborate on my college projects
-- 📫 How to reach me: henriquesgo42@gmail.com
-- ⚡ Fun fact: Nonsene questions leads to nonses responses. 42 is the answer to the great question about life, universe and everything.
+👋 Hi, I’m @HenriqueGouveia42
+👀 I’m interested in Back-end Web Development and System Design
+🌱 I’m currently learning how to build scalable and reliable web apps using React, Tailwind CSS, and Vite for the front-end, and C#/.NET for the back-end.
+💞️ I’m currently looking to collaborate on my college projects
+📫 How to reach me: henriquesgo42@gmail.com
+⚡ Fun fact: Nonsense questions lead to nonsense responses. 42 is the answer to the great question about life, the universe, and everything.
