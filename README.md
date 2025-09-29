@@ -1,4 +1,4 @@
-👋 Hi, I’m @HenriqueGouveia4
+👋 Hi, I’m @HenriqueGouveia42
 📫 I am a Mechatronics Technician, graduated from the Federal Institute of Pernambuco (IFPE), Caruaru, Brazil, and I am currently pursuing a Bachelor's degree in Information Systems at UFPE, CIn, Recife, Pernambuco, Brazil.
 👀 I’m interested in Back-end Web Development and System Design
 🌱 I’m currently learning how to build scalable and reliable full-stack web apps using NodeJS, Express, Prisma, MySql, Nginx for the back-end / API design, and React, Tailwind CSS, for the front-end / UX/UI
